@@ -1,8 +1,10 @@
-# Useful-scripts
+# My Blueprint Book
 
-Just a small collection of usefull scripts.
+My library of useful scripts, guides and programs
 
-List of scripts:
-- Docker
-    - Docker_Install_Windows.ps1 - installs WSL and Docker Desktop
-    - Docker_Setup_MySQL.ps1 - creates volume, then runs MySQL container and connects to it's interactive console
+## Linux:
+### Laptop fixes:
+- fix_tv.sh - fixes scaling on my old tv
+
+## Games:
+- Minecraft server - Docker compose file for fast server creation
