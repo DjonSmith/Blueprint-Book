@@ -6,6 +6,8 @@ My library of useful scripts, guides and programs
 ### Laptop fixes:
 - fix_tv.sh - fixes scaling on my old tv
 - loudness_equaliztion.sh - set up this function in linux
+### GPU pass-through
+- Scripts and manual
 
 ## Games:
 - Minecraft server - Docker compose file for fast server creation
