@@ -2,6 +2,8 @@
 
 This repo helps you configure **single GPU passthrough** from **Ubuntu Linux** to a **Windows 10/11 virtual machine (VM)** using **KVM/QEMU + VFIO**. Includes automation scripts to isolate and restore your NVIDIA GPU cleanly.
 
+==This isn't working propperly, and needs to be revisited in the future==
+
 ---
 
 ## 📦 Contents

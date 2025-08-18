@@ -1,3 +1,5 @@
+Uses this GitHub repo - https://github.com/itzg/docker-minecraft-server
+
 Creates minecraft server and volume for server data.
 
 ```bash
